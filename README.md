@@ -1,2 +1,2 @@
 # delta10
-hello
+hello .
